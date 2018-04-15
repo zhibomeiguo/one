@@ -15,6 +15,7 @@
 		3C1097DA2083844300C55DA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097D92083844300C55DA1 /* main.m */; };
 		3C1097E2208395E800C55DA1 /* OneiewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097E1208395E800C55DA1 /* OneiewController.m */; };
 		3C1097E52083967D00C55DA1 /* TWOViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097E42083967D00C55DA1 /* TWOViewController.m */; };
+		3C1097E820839A6D00C55DA1 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097E720839A6D00C55DA1 /* ThreeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		3C1097E1208395E800C55DA1 /* OneiewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OneiewController.m; sourceTree = "<group>"; };
 		3C1097E32083967D00C55DA1 /* TWOViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TWOViewController.h; sourceTree = "<group>"; };
 		3C1097E42083967D00C55DA1 /* TWOViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TWOViewController.m; sourceTree = "<group>"; };
+		3C1097E620839A6D00C55DA1 /* ThreeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
+		3C1097E720839A6D00C55DA1 /* ThreeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				3C1097E1208395E800C55DA1 /* OneiewController.m */,
 				3C1097E32083967D00C55DA1 /* TWOViewController.h */,
 				3C1097E42083967D00C55DA1 /* TWOViewController.m */,
+				3C1097E620839A6D00C55DA1 /* ThreeViewController.h */,
+				3C1097E720839A6D00C55DA1 /* ThreeViewController.m */,
 				3C1097D02083844200C55DA1 /* Main.storyboard */,
 				3C1097D32083844300C55DA1 /* Assets.xcassets */,
 				3C1097D52083844300C55DA1 /* LaunchScreen.storyboard */,
@@ -154,6 +159,7 @@
 				3C1097E52083967D00C55DA1 /* TWOViewController.m in Sources */,
 				3C1097E2208395E800C55DA1 /* OneiewController.m in Sources */,
 				3C1097CF2083844200C55DA1 /* ViewController.m in Sources */,
+				3C1097E820839A6D00C55DA1 /* ThreeViewController.m in Sources */,
 				3C1097DA2083844300C55DA1 /* main.m in Sources */,
 				3C1097CC2083844200C55DA1 /* AppDelegate.m in Sources */,
 			);

@@ -13,6 +13,7 @@
 		3C1097D42083844300C55DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C1097D32083844300C55DA1 /* Assets.xcassets */; };
 		3C1097D72083844300C55DA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3C1097D52083844300C55DA1 /* LaunchScreen.storyboard */; };
 		3C1097DA2083844300C55DA1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097D92083844300C55DA1 /* main.m */; };
+		3C1097E2208395E800C55DA1 /* OneiewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C1097E1208395E800C55DA1 /* OneiewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		3C1097D62083844300C55DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C1097D82083844300C55DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3C1097D92083844300C55DA1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3C1097E0208395E800C55DA1 /* OneiewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OneiewController.h; sourceTree = "<group>"; };
+		3C1097E1208395E800C55DA1 /* OneiewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OneiewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				3C1097CB2083844200C55DA1 /* AppDelegate.m */,
 				3C1097CD2083844200C55DA1 /* ViewController.h */,
 				3C1097CE2083844200C55DA1 /* ViewController.m */,
+				3C1097E0208395E800C55DA1 /* OneiewController.h */,
+				3C1097E1208395E800C55DA1 /* OneiewController.m */,
 				3C1097D02083844200C55DA1 /* Main.storyboard */,
 				3C1097D32083844300C55DA1 /* Assets.xcassets */,
 				3C1097D52083844300C55DA1 /* LaunchScreen.storyboard */,
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C1097E2208395E800C55DA1 /* OneiewController.m in Sources */,
 				3C1097CF2083844200C55DA1 /* ViewController.m in Sources */,
 				3C1097DA2083844300C55DA1 /* main.m in Sources */,
 				3C1097CC2083844200C55DA1 /* AppDelegate.m in Sources */,
